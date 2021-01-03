@@ -1,5 +1,5 @@
 # PaleESP32VGA
-Emulation of Lynx 96K + Disks on TTGO VGA ESP32
+Emulation of Camputers Lynx 96K + Disks on TTGO VGA ESP32
 
 Works on the Rev 1.4 board using PSRAM for disk support (will work without this)
 
